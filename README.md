@@ -48,3 +48,5 @@
 <a href = "https://www.linkedin.com/in/saravanan-pk"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/saravanan_2k2/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
+    <h3 align="left">Profile Views: 🧐</h3>
+<img width="20%" src="https://profile-counter.glitch.me/%7BSaravanan521%7D/count.svg" />
