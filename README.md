@@ -15,7 +15,8 @@
 <a href="https://instagram.com/saravanan_2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saravanan_2k2" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -32,8 +33,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
       
