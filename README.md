@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Customer Care Registry](https://github.com/Team-Nitro/team-nitro-customer-care-registry)
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Web Dev**
 
 - 📫 How to reach me **saravanan.pk521@gmail.com**
 
