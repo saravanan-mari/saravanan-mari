@@ -38,7 +38,6 @@
 
       
 <h3 align="left">Profile Views: 🧐</h3>
-<img width="20%" src="https://profile-counter.glitch.me/%7BGitHub-Profile%7D/count.svg" /> 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanan-mari&show_icons=true&locale=en" alt="saravanan-mari" />
