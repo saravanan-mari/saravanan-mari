@@ -37,7 +37,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
       
-<h3 align="left">Profile Views: 🧐</h3>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanan-mari&show_icons=true&locale=en" alt="saravanan-mari" />
