@@ -12,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pk_pms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pk_pms" height="30" width="40" /></a>
-<a href="https://instagram.com/saravanan_2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saravanan_2k2" height="30" width="40" /></a>
-</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
