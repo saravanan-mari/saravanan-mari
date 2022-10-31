@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/private-gif-22631794.gif"/>
 
-
-- 🌱 I’m currently learning **Web Dev**
-
 - 📫 How to reach me **saravanan.pk521@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
