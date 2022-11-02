@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mari Saravanan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mari Saravanan</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/private-gif-22631794.gif"/>
 
@@ -36,3 +36,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanan-mari&show_icons=true&locale=en" alt="saravanan-mari" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanan-mari&show_icons=true&locale=en&layout=compact" alt="saravanan-mari" /></p>
+ -->
